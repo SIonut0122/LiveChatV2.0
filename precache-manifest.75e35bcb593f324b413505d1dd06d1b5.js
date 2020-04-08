@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b72748a58e5b9ed9c663efa9a29345d0",
+    "revision": "5fdac6a357485d60d6b6f57ce45c2990",
     "url": "/LiveChatV2.0/index.html"
   },
   {
-    "revision": "0cba18058ab55a1b1d8e",
+    "revision": "43a1eaaa268c729e1ede",
     "url": "/LiveChatV2.0/static/css/main.4481fdd0.chunk.css"
   },
   {
-    "revision": "babd2d25a41d6947c56d",
-    "url": "/LiveChatV2.0/static/js/2.747a9d08.chunk.js"
+    "revision": "e1e3f8102c6341ce9cd9",
+    "url": "/LiveChatV2.0/static/js/2.ae376757.chunk.js"
   },
   {
     "revision": "b1ac8b734229fa843eb97e2dc0e50e60",
-    "url": "/LiveChatV2.0/static/js/2.747a9d08.chunk.js.LICENSE.txt"
+    "url": "/LiveChatV2.0/static/js/2.ae376757.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0cba18058ab55a1b1d8e",
-    "url": "/LiveChatV2.0/static/js/main.bf51c002.chunk.js"
+    "revision": "43a1eaaa268c729e1ede",
+    "url": "/LiveChatV2.0/static/js/main.9283ee60.chunk.js"
   },
   {
     "revision": "1c32f0c9830402ddc2e0",
