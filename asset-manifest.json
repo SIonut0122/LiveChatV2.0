@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/LiveChatV2.0/static/css/main.4481fdd0.chunk.css",
-    "main.js": "/LiveChatV2.0/static/js/main.9283ee60.chunk.js",
-    "main.js.map": "/LiveChatV2.0/static/js/main.9283ee60.chunk.js.map",
+    "main.css": "/LiveChatV2.0/static/css/main.eda901f3.chunk.css",
+    "main.js": "/LiveChatV2.0/static/js/main.f01e3968.chunk.js",
+    "main.js.map": "/LiveChatV2.0/static/js/main.f01e3968.chunk.js.map",
     "runtime-main.js": "/LiveChatV2.0/static/js/runtime-main.8a6e56bb.js",
     "runtime-main.js.map": "/LiveChatV2.0/static/js/runtime-main.8a6e56bb.js.map",
-    "static/js/2.ae376757.chunk.js": "/LiveChatV2.0/static/js/2.ae376757.chunk.js",
-    "static/js/2.ae376757.chunk.js.map": "/LiveChatV2.0/static/js/2.ae376757.chunk.js.map",
+    "static/js/2.25b6a85e.chunk.js": "/LiveChatV2.0/static/js/2.25b6a85e.chunk.js",
+    "static/js/2.25b6a85e.chunk.js.map": "/LiveChatV2.0/static/js/2.25b6a85e.chunk.js.map",
     "index.html": "/LiveChatV2.0/index.html",
-    "precache-manifest.75e35bcb593f324b413505d1dd06d1b5.js": "/LiveChatV2.0/precache-manifest.75e35bcb593f324b413505d1dd06d1b5.js",
+    "precache-manifest.fc1f5615f25ff44cf6cc7a682127a24d.js": "/LiveChatV2.0/precache-manifest.fc1f5615f25ff44cf6cc7a682127a24d.js",
     "service-worker.js": "/LiveChatV2.0/service-worker.js",
-    "static/css/main.4481fdd0.chunk.css.map": "/LiveChatV2.0/static/css/main.4481fdd0.chunk.css.map",
-    "static/js/2.ae376757.chunk.js.LICENSE.txt": "/LiveChatV2.0/static/js/2.ae376757.chunk.js.LICENSE.txt",
+    "static/css/main.eda901f3.chunk.css.map": "/LiveChatV2.0/static/css/main.eda901f3.chunk.css.map",
+    "static/js/2.25b6a85e.chunk.js.LICENSE.txt": "/LiveChatV2.0/static/js/2.25b6a85e.chunk.js.LICENSE.txt",
     "static/media/Header.css": "/LiveChatV2.0/static/media/chat_logo.e45ebabe.png",
     "static/media/Main.css": "/LiveChatV2.0/static/media/unu.6d2fb720.png",
     "static/media/message.mp3": "/LiveChatV2.0/static/media/message.a431eaad.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.8a6e56bb.js",
-    "static/js/2.ae376757.chunk.js",
-    "static/css/main.4481fdd0.chunk.css",
-    "static/js/main.9283ee60.chunk.js"
+    "static/js/2.25b6a85e.chunk.js",
+    "static/css/main.eda901f3.chunk.css",
+    "static/js/main.f01e3968.chunk.js"
   ]
 }
