@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/LiveChatV2.0/static/css/main.a6b16e07.chunk.css",
-    "main.js": "/LiveChatV2.0/static/js/main.fca0ede5.chunk.js",
-    "main.js.map": "/LiveChatV2.0/static/js/main.fca0ede5.chunk.js.map",
-    "runtime-main.js": "/LiveChatV2.0/static/js/runtime-main.8a6e56bb.js",
-    "runtime-main.js.map": "/LiveChatV2.0/static/js/runtime-main.8a6e56bb.js.map",
-    "static/js/2.25b6a85e.chunk.js": "/LiveChatV2.0/static/js/2.25b6a85e.chunk.js",
-    "static/js/2.25b6a85e.chunk.js.map": "/LiveChatV2.0/static/js/2.25b6a85e.chunk.js.map",
+    "main.css": "/LiveChatV2.0/static/css/main.fdf66e0e.chunk.css",
+    "main.js": "/LiveChatV2.0/static/js/main.aeffffa6.chunk.js",
+    "main.js.map": "/LiveChatV2.0/static/js/main.aeffffa6.chunk.js.map",
+    "runtime-main.js": "/LiveChatV2.0/static/js/runtime-main.91bb680a.js",
+    "runtime-main.js.map": "/LiveChatV2.0/static/js/runtime-main.91bb680a.js.map",
+    "static/js/2.42af323b.chunk.js": "/LiveChatV2.0/static/js/2.42af323b.chunk.js",
+    "static/js/2.42af323b.chunk.js.map": "/LiveChatV2.0/static/js/2.42af323b.chunk.js.map",
     "index.html": "/LiveChatV2.0/index.html",
-    "precache-manifest.ed53014b163c1f08e0ea46551f4a7fb1.js": "/LiveChatV2.0/precache-manifest.ed53014b163c1f08e0ea46551f4a7fb1.js",
+    "precache-manifest.760425e98c29596c3a4701d883e16137.js": "/LiveChatV2.0/precache-manifest.760425e98c29596c3a4701d883e16137.js",
     "service-worker.js": "/LiveChatV2.0/service-worker.js",
-    "static/css/main.a6b16e07.chunk.css.map": "/LiveChatV2.0/static/css/main.a6b16e07.chunk.css.map",
-    "static/js/2.25b6a85e.chunk.js.LICENSE.txt": "/LiveChatV2.0/static/js/2.25b6a85e.chunk.js.LICENSE.txt",
+    "static/css/main.fdf66e0e.chunk.css.map": "/LiveChatV2.0/static/css/main.fdf66e0e.chunk.css.map",
+    "static/js/2.42af323b.chunk.js.LICENSE.txt": "/LiveChatV2.0/static/js/2.42af323b.chunk.js.LICENSE.txt",
     "static/media/Header.css": "/LiveChatV2.0/static/media/chat_logo.e45ebabe.png",
     "static/media/Main.css": "/LiveChatV2.0/static/media/unu.6d2fb720.png",
     "static/media/message.mp3": "/LiveChatV2.0/static/media/message.a431eaad.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a6e56bb.js",
-    "static/js/2.25b6a85e.chunk.js",
-    "static/css/main.a6b16e07.chunk.css",
-    "static/js/main.fca0ede5.chunk.js"
+    "static/js/runtime-main.91bb680a.js",
+    "static/js/2.42af323b.chunk.js",
+    "static/css/main.fdf66e0e.chunk.css",
+    "static/js/main.aeffffa6.chunk.js"
   ]
 }
