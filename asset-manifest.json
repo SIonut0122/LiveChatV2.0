@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/LiveChatV2.0/static/css/main.fdf66e0e.chunk.css",
-    "main.js": "/LiveChatV2.0/static/js/main.aeffffa6.chunk.js",
-    "main.js.map": "/LiveChatV2.0/static/js/main.aeffffa6.chunk.js.map",
+    "main.css": "/LiveChatV2.0/static/css/main.eb826ba5.chunk.css",
+    "main.js": "/LiveChatV2.0/static/js/main.40422cc1.chunk.js",
+    "main.js.map": "/LiveChatV2.0/static/js/main.40422cc1.chunk.js.map",
     "runtime-main.js": "/LiveChatV2.0/static/js/runtime-main.91bb680a.js",
     "runtime-main.js.map": "/LiveChatV2.0/static/js/runtime-main.91bb680a.js.map",
     "static/js/2.42af323b.chunk.js": "/LiveChatV2.0/static/js/2.42af323b.chunk.js",
     "static/js/2.42af323b.chunk.js.map": "/LiveChatV2.0/static/js/2.42af323b.chunk.js.map",
     "index.html": "/LiveChatV2.0/index.html",
-    "precache-manifest.760425e98c29596c3a4701d883e16137.js": "/LiveChatV2.0/precache-manifest.760425e98c29596c3a4701d883e16137.js",
+    "precache-manifest.a342b41f1e147e0b96ffcaa7dc24d999.js": "/LiveChatV2.0/precache-manifest.a342b41f1e147e0b96ffcaa7dc24d999.js",
     "service-worker.js": "/LiveChatV2.0/service-worker.js",
-    "static/css/main.fdf66e0e.chunk.css.map": "/LiveChatV2.0/static/css/main.fdf66e0e.chunk.css.map",
+    "static/css/main.eb826ba5.chunk.css.map": "/LiveChatV2.0/static/css/main.eb826ba5.chunk.css.map",
     "static/js/2.42af323b.chunk.js.LICENSE.txt": "/LiveChatV2.0/static/js/2.42af323b.chunk.js.LICENSE.txt",
     "static/media/Header.css": "/LiveChatV2.0/static/media/chat_logo.e45ebabe.png",
     "static/media/Main.css": "/LiveChatV2.0/static/media/unu.6d2fb720.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.91bb680a.js",
     "static/js/2.42af323b.chunk.js",
-    "static/css/main.fdf66e0e.chunk.css",
-    "static/js/main.aeffffa6.chunk.js"
+    "static/css/main.eb826ba5.chunk.css",
+    "static/js/main.40422cc1.chunk.js"
   ]
 }
