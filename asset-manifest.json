@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/LiveChatV2.0/static/css/main.bb1f4d8f.chunk.css",
-    "main.js": "/LiveChatV2.0/static/js/main.5dd6f704.chunk.js",
-    "main.js.map": "/LiveChatV2.0/static/js/main.5dd6f704.chunk.js.map",
+    "main.js": "/LiveChatV2.0/static/js/main.102baba2.chunk.js",
+    "main.js.map": "/LiveChatV2.0/static/js/main.102baba2.chunk.js.map",
     "runtime-main.js": "/LiveChatV2.0/static/js/runtime-main.91bb680a.js",
     "runtime-main.js.map": "/LiveChatV2.0/static/js/runtime-main.91bb680a.js.map",
-    "static/js/2.e54efc8d.chunk.js": "/LiveChatV2.0/static/js/2.e54efc8d.chunk.js",
-    "static/js/2.e54efc8d.chunk.js.map": "/LiveChatV2.0/static/js/2.e54efc8d.chunk.js.map",
+    "static/js/2.70d966f7.chunk.js": "/LiveChatV2.0/static/js/2.70d966f7.chunk.js",
+    "static/js/2.70d966f7.chunk.js.map": "/LiveChatV2.0/static/js/2.70d966f7.chunk.js.map",
     "index.html": "/LiveChatV2.0/index.html",
-    "precache-manifest.ca937dd895955671bbf9019e00141956.js": "/LiveChatV2.0/precache-manifest.ca937dd895955671bbf9019e00141956.js",
+    "precache-manifest.ca89ad57150776fd5565c6c61912d050.js": "/LiveChatV2.0/precache-manifest.ca89ad57150776fd5565c6c61912d050.js",
     "service-worker.js": "/LiveChatV2.0/service-worker.js",
     "static/css/main.bb1f4d8f.chunk.css.map": "/LiveChatV2.0/static/css/main.bb1f4d8f.chunk.css.map",
-    "static/js/2.e54efc8d.chunk.js.LICENSE.txt": "/LiveChatV2.0/static/js/2.e54efc8d.chunk.js.LICENSE.txt",
+    "static/js/2.70d966f7.chunk.js.LICENSE.txt": "/LiveChatV2.0/static/js/2.70d966f7.chunk.js.LICENSE.txt",
     "static/media/Header.css": "/LiveChatV2.0/static/media/chat_logo.e45ebabe.png",
     "static/media/Main.css": "/LiveChatV2.0/static/media/unu.6d2fb720.png",
     "static/media/message.mp3": "/LiveChatV2.0/static/media/message.a431eaad.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.91bb680a.js",
-    "static/js/2.e54efc8d.chunk.js",
+    "static/js/2.70d966f7.chunk.js",
     "static/css/main.bb1f4d8f.chunk.css",
-    "static/js/main.5dd6f704.chunk.js"
+    "static/js/main.102baba2.chunk.js"
   ]
 }
