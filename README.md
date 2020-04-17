@@ -29,7 +29,7 @@ Within this live chat you can:
 
 ## Open App: [Here](https://sionut0122.github.io/LiveChatV2.0/)
 
-## Source code: [Here](https://github.com/SIonut0122/LiveChatV2.0/tree/gh-pages/LiveChat%20V2.0%20Source%20code)
+## Source code: [Here](https://github.com/SIonut0122/LiveChatV2.0/tree/gh-pages/LiveChatV2.0%20source%20code)
 
 ## Built with:
 
