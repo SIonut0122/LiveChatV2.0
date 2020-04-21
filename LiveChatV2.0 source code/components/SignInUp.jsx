@@ -1,9 +1,9 @@
 import React            from 'react';
 import firebase         from '@firebase/app';
 import { connect      } from "react-redux";
-import { userInfo     } from '../actions/index';
-import { openSigninup } from '../actions/index';
-import { getChatMsg   } from '../actions/index';
+import { userInfo,
+         openSigninup,
+         getChatMsg   } from '../actions/index';
 import dbRef            from '../firebase';
 import getdbRefData     from '../firebase';
 import '../css/Signinup.css';
