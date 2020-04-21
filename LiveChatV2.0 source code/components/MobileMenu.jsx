@@ -1,11 +1,10 @@
 import React              from 'react';
 import { connect        } from "react-redux";
-import { userInfo       } from '../actions/index';
-import { openMobileMenu } from '../actions/index';
-import { openSigninup   } from '../actions/index';
+import { userInfo,
+         openMobileMenu,
+         openSigninup   } from '../actions/index';
 import * as firebase      from 'firebase/app';
 import '../css/Mobilemenu.css';
-
 
 
 const mapStateToProps = state => {
