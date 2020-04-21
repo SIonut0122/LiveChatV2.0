@@ -1,19 +1,20 @@
-import React               from 'react';
-import { connect         } from "react-redux";
-import { openWelcomePage } from '../actions/index';
-import { userInfo        } from '../actions/index';
-import { openSigninup    } from '../actions/index';
-import { openMobileMenu  } from '../actions/index';
-import { setInactiveUser } from '../actions/index';
-import { getChatMsg      } from '../actions/index';
-import WelcomePage         from '../components/WelcomePage';
-import Header              from '../components/Header';
-import SignInUp            from '../components/SignInUp';
-import MobileMenu          from '../components/MobileMenu';
-import dbRef               from '../firebase';
-import getdbRefData        from '../firebase';
-import * as firebase       from 'firebase/app';
+import   React              from 'react';
+import { connect         }  from "react-redux";
+import { openWelcomePage,
+         userInfo,
+         openSigninup,
+         openMobileMenu,
+         setInactiveUser,
+         getChatMsg       } from '../actions/index';
+import   WelcomePage        from '../components/WelcomePage';
+import   Header             from '../components/Header';
+import   SignInUp           from '../components/SignInUp';
+import   MobileMenu         from '../components/MobileMenu';
+import   dbRef              from '../firebase';
+import   getdbRefData       from '../firebase';
+import * as firebase        from 'firebase/app';
 import '../css/Main.css';
+ 
  
 
 const mapStateToProps = state => {
