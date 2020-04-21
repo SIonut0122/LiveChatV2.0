@@ -1,11 +1,11 @@
-import React            from 'react';
-import firebase         from '@firebase/app';
-import { connect      } from "react-redux";
+import React             from 'react';
+import firebase          from '@firebase/app';
+import { connect       } from "react-redux";
 import { userInfo,
          openSigninup,
-         getChatMsg   } from '../actions/index';
-import dbRef            from '../firebase';
-import getdbRefData     from '../firebase';
+         getChatMsg    } from '../actions/index';
+import dbRef             from '../firebase';
+import getdbRefData      from '../firebase';
 import '../css/Signinup.css';
 import 'firebase/auth';
 
