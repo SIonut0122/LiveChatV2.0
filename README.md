@@ -1,5 +1,5 @@
 
-## Description
+## Live Chat v2.0
 
 Try this free live chat web app, no installation needed. You can choose to create an account or to chat as an anonymous user. While chatting, you can see real time online users.
 
